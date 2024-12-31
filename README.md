@@ -12,6 +12,5 @@ A Java-based application for managing personal finances, including income and ex
 
 ## Technologies Used
 - **Backend**: Java, Spring Boot
-- **Database**: MySQL (or your choice of RDBMS)
 - **API Documentation**: Springdoc OpenAPI (Swagger UI)
 - **Testing**: JUnit, Mockito
